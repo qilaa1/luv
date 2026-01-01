@@ -1,0 +1,8 @@
+<svg width="160" height="48" viewBox="0 0 160 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="160" height="48" rx="12" fill="#111318" />
+  <circle cx="29.5" cy="24" r="10" stroke="#38BDF8" stroke-width="2.5" />
+  <path d="M26 24C26 20.6863 27.7909 18 30 18C32.2091 18 34 20.6863 34 24C34 27.3137 32.2091 30 30 30C27.7909 30 26 27.3137 26 24Z" stroke="#38BDF8" stroke-width="2.5" />
+  <path d="M22 24H37" stroke="#38BDF8" stroke-width="2" stroke-linecap="round" />
+  <path d="M29.5 17V31" stroke="#38BDF8" stroke-width="2" stroke-linecap="round" />
+  <text x="56" y="28" fill="#FFFFFF" font-family="'Inter', sans-serif" font-size="16" font-weight="600">MongoDB Atlas</text>
+</svg>
